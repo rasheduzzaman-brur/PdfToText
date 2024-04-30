@@ -1,5 +1,3 @@
-# PDF Text Extraction and Bangla Law Data Question Generation
-
 ## PDF Text Extraction using PyPDF2
 
 ### Overview
