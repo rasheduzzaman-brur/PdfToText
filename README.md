@@ -21,7 +21,10 @@ This Python script extracts text from a PDF file using the PyPDF2 library. It re
 Provide the path to the PDF file you want to extract text from by setting the pdf_path variable in the script.
 
 Run the script:
+
+
          ```bash
          python extract_text_from_pdf.py
+         
 
 The script will read each page of the PDF file and extract the text. The extracted text will be printed to the console.
